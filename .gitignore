@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+bun.lockb
+
+# Build output
+dist/
+dist-ssr/
+
+# Vite cache
+.vite/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Test output
+coverage/
+
+# Playwright artifacts
+.playwright-mcp/
+
+# Misc
+*.log
